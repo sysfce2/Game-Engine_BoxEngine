@@ -1,6 +1,6 @@
 # BoxEngine
 
-BoxEngine is an engine designed to build both 2D and 3D general applications, such as games, using the Lua scripting language. This engine is ideal for creating applications quickly, thanks to its abstract layers implemented with OpenGL, which facilitate fast prototyping.
+BoxEngine is an engine designed to build both 2D games, using the Lua scripting language. This engine is ideal for creating applications quickly, thanks to its abstract layers implemented with OpenGL, which facilitate fast prototyping.
 
 This is a hobby project.
 
@@ -32,7 +32,7 @@ Read the scripting api documentation [here](https://github.com/RodrigoPAml/BoxEn
 * Scene module (allows to instantiate GO and scripts and manipulate the game scene)
 * Import module (allows to import 3d object files, currently have a basic version)
 * Renderer module (allows to draw 3d models, currently have a basic version)
-* GUI module (to do, basically por ImGui inside framebuffer)
+* GUI module (to do, basically put ImGui inside framebuffer)
 * Physics module (to do)
 
 ## Editor features
