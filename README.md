@@ -117,16 +117,6 @@ My fractal
 
 ![image](https://github.com/RodrigoPAml/BoxEngine/assets/41243039/8baca372-0148-4342-9be8-33c5525ec58a)
 
-## 3D Scene
-
-Open an 3d object an draw it with renderer, this is in the projects/example folder
-
-![image](https://github.com/RodrigoPAml/BoxEngine/assets/41243039/07b75cc4-aba1-4a98-867f-966723d3260b)
-
-![image](https://github.com/RodrigoPAml/BoxEngine/assets/41243039/7432d2b5-7668-4091-81fb-5f6ddd405722)
-
-![image](https://github.com/RodrigoPAml/BoxEngine/assets/41243039/c7d1a849-4961-4036-87f7-e98db5d4b2dc)
-
 ## 2D Ray Tracing
 
 The first attemp to implement ray tracing in OpenGL using BoxEngine
@@ -141,6 +131,15 @@ Repository in [here](https://github.com/RodrigoPAml/RayTracer2D)
 
 ![image](https://github.com/RodrigoPAml/BoxEngine/assets/41243039/9fde6875-9403-4905-b1ce-dd26ae086da1)
 
+## 3D Scene
+
+Open an 3d object an draw it with renderer, this is in the projects/example folder
+
+![image](https://github.com/RodrigoPAml/BoxEngine/assets/41243039/07b75cc4-aba1-4a98-867f-966723d3260b)
+
+![image](https://github.com/RodrigoPAml/BoxEngine/assets/41243039/7432d2b5-7668-4091-81fb-5f6ddd405722)
+
+![image](https://github.com/RodrigoPAml/BoxEngine/assets/41243039/c7d1a849-4961-4036-87f7-e98db5d4b2dc)
 
 
 
