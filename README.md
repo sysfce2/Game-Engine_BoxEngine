@@ -133,7 +133,7 @@ Repository in [here](https://github.com/RodrigoPAml/RayTracer2D)
 
 ## 3D Scene
 
-Open an 3d object an draw it with renderer, this is in the projects/example folder
+Opens a 3d object an draw it with renderer, this is in the projects/example folder
 
 ![image](https://github.com/RodrigoPAml/BoxEngine/assets/41243039/07b75cc4-aba1-4a98-867f-966723d3260b)
 
